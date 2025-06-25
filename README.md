@@ -6,6 +6,8 @@ Esta es una aplicación web desarrollada con Streamlit que permite a los usuario
 
 - **Gráfico de dispersión:** Muestra la relación entre los valores del odómetro y los precios de los vehículos.
 
+**Este proyecto fue realizado como parte del Bootcamp de Data Analytics de [TripleTen](https://tripleten.ec/), donde aprendí a construir aplicaciones interactivas con Python y Streamlit.**
+
 La herramienta facilita la exploración interactiva de los datos para obtener insights rápidos sobre el estado y precios de los vehículos.
 
 ## 🚀 Tecnologías utilizadas
